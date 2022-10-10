@@ -1,0 +1,4 @@
+aiohttp
+tasksio
+requests
+asyncio
